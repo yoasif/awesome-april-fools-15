@@ -24,7 +24,7 @@ Some of these are taken from the [HackerNews](https://news.ycombinator.com/item?
 - [https://github.com/kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
 - [https://devuan.org/](https://devuan.org/) 
 - [http://www.theguardian.com/media/2015/apr/01/jeremy-clarkson-joins-guardian-drive-for-fossil-fuel-divestment](http://www.theguardian.com/media/2015/apr/01/jeremy-clarkson-joins-guardian-drive-for-fossil-fuel-divestment) 
-- [http://www.faz.net/aktuell/feuilleton/debatten/die-digital-debatte/zwei-klassen-internet-das-katzenlose-netz-13515864.html)(http://www.faz.net/aktuell/feuilleton/debatten/die-digital-debatte/zwei-klassen-internet-das-katzenlose-netz-13515864.html) 
+- [http://www.faz.net/aktuell/feuilleton/debatten/die-digital-debatte/zwei-klassen-internet-das-katzenlose-netz-13515864.html](http://www.faz.net/aktuell/feuilleton/debatten/die-digital-debatte/zwei-klassen-internet-das-katzenlose-netz-13515864.html) 
 
 
 
