@@ -20,6 +20,8 @@ Some of these are taken from the [HackerNews](https://news.ycombinator.com/item?
 - [https://com.google/](https://com.google/)
 - [http://dev.w3.org/csswg/css-egg/](http://dev.w3.org/csswg/css-egg/) 
 - [https://www.gentoo.org/](https://www.gentoo.org/)
+- [Dump In A Bag by Eagle Optics](https://www.youtube.com/watch?v=M6mlw3165fo&feature=youtu.be)
+- [http://googlesystem.blogspot.com/2007/04/gmail-paper-print-your-messages-for.html](http://googlesystem.blogspot.com/2007/04/gmail-paper-print-your-messages-for.html)
 - [https://github.com/mrThe/to_nil](https://github.com/mrThe/to_nil) 
 - [https://github.com/kristopolous/BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386)
 - [https://devuan.org/](https://devuan.org/) 
