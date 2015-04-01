@@ -1,6 +1,6 @@
 # April fools 2015 
 
-Some of these are taken from the [HackerNews](https://news.ycombinator.com/item?id=9302010) 
+Some of these are taken from the [HackerNews](https://news.ycombinator.com/item?id=9302010) post.
 
 - [https://cloud.google.com/actual-cloud/](https://cloud.google.com/actual-cloud/)
 - [http://www.microsoft.com/en/mobile/ms-dos/](http://www.microsoft.com/en/mobile/ms-dos/)
